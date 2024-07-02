@@ -1,0 +1,4 @@
+requests
+pydantic
+ttkthemes
+python-dotenv
