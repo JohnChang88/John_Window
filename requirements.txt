@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 requests
 pydantic
 ttkthemes
 python-dotenv
+=======
+pydantic
+requests
+ttkthemes
+tkintermapview
+>>>>>>> b5f6e7be6c1b1fab0b65499217b77099eddb04e4
