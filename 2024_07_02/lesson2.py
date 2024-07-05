@@ -1,8 +1,8 @@
 import psycopg2
 import data
 import os
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 def main():    
     # conn = psycopg2.connect("postgresql://tvdi_1c6e_user:mmP8BQ8UaIQZdPTaZ9BsWDu77OMke2Pq@dpg-cpscvr08fa8c739548rg-a.singapore-postgres.render.com/tvdi_1c6e")
